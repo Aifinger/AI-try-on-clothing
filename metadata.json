@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Try-On",
+  "description": "An AI-powered virtual try-on application using Nano Banana (Gemini 2.5 Flash Image) to generate clothes and visualize outfits.",
+  "requestFramePermissions": []
+}
